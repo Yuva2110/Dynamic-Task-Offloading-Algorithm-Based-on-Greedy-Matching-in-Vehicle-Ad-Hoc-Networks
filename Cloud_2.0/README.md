@@ -5,9 +5,11 @@
 Install the dependecies
 
 `pip install simpy`
+
 `pip install matplotlib `
 
 Then RUN the simulate.py
+
 `python3 simulate.py`
 
 it will generate the data in the form of json files

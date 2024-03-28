@@ -1,7 +1,7 @@
 
-# vehicular mobility model VMM
+# vehicular mobility model (VMM)
 
-## to execute 
+## To execute 
 Install the dependecies
 
 `pip install simpy`
@@ -24,7 +24,7 @@ it will generate the data in the form of json files
 2. GMDC
 
 plot_1
-![alt text](Cloud_2.0\image.png)
+![alt text](Cloud_2.0/image.png)
 
 plot_2
-![alt text](Cloud_2.0\image-1.png)
+![alt text](Cloud_2.0/image-1.png)

@@ -1,0 +1,82 @@
+[
+    {
+        "distance": 18.459562660425036,
+        "uv_label": "Vehicle5",
+        "rsu_label": "RSU1"
+    },
+    {
+        "distance": 46.21626103024572,
+        "uv_label": "Vehicle5",
+        "rsu_label": "RSU2"
+    },
+    {
+        "distance": 25.289371010655266,
+        "uv_label": "Vehicle5",
+        "rsu_label": "RSU3"
+    },
+    {
+        "distance": 6.413657444567713,
+        "uv_label": "Vehicle5",
+        "rsu_label": "RSU4"
+    },
+    {
+        "distance": 18.89293550451314,
+        "uv_label": "Vehicle11",
+        "rsu_label": "RSU1"
+    },
+    {
+        "distance": 45.440252496270105,
+        "uv_label": "Vehicle11",
+        "rsu_label": "RSU2"
+    },
+    {
+        "distance": 25.177597099692917,
+        "uv_label": "Vehicle11",
+        "rsu_label": "RSU3"
+    },
+    {
+        "distance": 9.623179373911977,
+        "uv_label": "Vehicle11",
+        "rsu_label": "RSU4"
+    },
+    {
+        "distance": 15.890909520851915,
+        "uv_label": "Vehicle4",
+        "rsu_label": "RSU1"
+    },
+    {
+        "distance": 43.98286514069064,
+        "uv_label": "Vehicle4",
+        "rsu_label": "RSU2"
+    },
+    {
+        "distance": 22.86949628972994,
+        "uv_label": "Vehicle4",
+        "rsu_label": "RSU3"
+    },
+    {
+        "distance": 3.2000784362183166,
+        "uv_label": "Vehicle4",
+        "rsu_label": "RSU4"
+    },
+    {
+        "distance": 15.521526482234666,
+        "uv_label": "Vehicle1",
+        "rsu_label": "RSU1"
+    },
+    {
+        "distance": 43.356453752080725,
+        "uv_label": "Vehicle1",
+        "rsu_label": "RSU2"
+    },
+    {
+        "distance": 22.374848798217894,
+        "uv_label": "Vehicle1",
+        "rsu_label": "RSU3"
+    },
+    {
+        "distance": 4.120000027487827,
+        "uv_label": "Vehicle1",
+        "rsu_label": "RSU4"
+    }
+]

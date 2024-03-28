@@ -1,0 +1,156 @@
+[
+    {
+        "x": 0.6446049757816557,
+        "y": 1.6151410366008714,
+        "label": "Vehicle2",
+        "speed": 36.045060476563705,
+        "processing_capacity": 6,
+        "direction": "left",
+        "cpu_clock_frequency": 2.737951994760544,
+        "task_size": null,
+        "result_size": null
+    },
+    {
+        "x": 3.6716203189390786,
+        "y": 5.145720186604654,
+        "label": "Vehicle3",
+        "speed": 42.2311207286339,
+        "processing_capacity": 5,
+        "direction": "right",
+        "cpu_clock_frequency": 1.6196816381039896,
+        "task_size": null,
+        "result_size": null
+    },
+    {
+        "x": 2.1391183900759385,
+        "y": 4.369651461844972,
+        "label": "Vehicle6",
+        "speed": 12.75292174223055,
+        "processing_capacity": 3,
+        "direction": "right",
+        "cpu_clock_frequency": 1.1237549579414263,
+        "task_size": null,
+        "result_size": null
+    },
+    {
+        "x": 3.5961827094101873,
+        "y": 0.2457829387634879,
+        "label": "Vehicle7",
+        "speed": 15.142303646382532,
+        "processing_capacity": 7,
+        "direction": "left",
+        "cpu_clock_frequency": 1.9270506060660901,
+        "task_size": null,
+        "result_size": null
+    },
+    {
+        "x": 0.933998384661256,
+        "y": 1.08289303012071,
+        "label": "Vehicle8",
+        "speed": 9.907410430394753,
+        "processing_capacity": 1,
+        "direction": "left",
+        "cpu_clock_frequency": 1.3689971999119541,
+        "task_size": null,
+        "result_size": null
+    },
+    {
+        "x": 3.4699315273347286,
+        "y": 0.7418805277054678,
+        "label": "Vehicle9",
+        "speed": 26.957085162719597,
+        "processing_capacity": 5,
+        "direction": "left",
+        "cpu_clock_frequency": 2.4542016685987127,
+        "task_size": null,
+        "result_size": null
+    },
+    {
+        "x": 5.738164594505261,
+        "y": 6.497678510233422,
+        "label": "Vehicle10",
+        "speed": 22.0608014821011,
+        "processing_capacity": 1,
+        "direction": "right",
+        "cpu_clock_frequency": 2.272102171045856,
+        "task_size": null,
+        "result_size": null
+    },
+    {
+        "x": 6.0373095877308,
+        "y": 1.1339651564263322,
+        "label": "Vehicle12",
+        "speed": 41.92668755292961,
+        "processing_capacity": 9,
+        "direction": "left",
+        "cpu_clock_frequency": 2.2668067599510415,
+        "task_size": null,
+        "result_size": null
+    },
+    {
+        "x": 0.7709622799349949,
+        "y": 2.3585907888870388,
+        "label": "Vehicle13",
+        "speed": 3.735768084592234,
+        "processing_capacity": 3,
+        "direction": "left",
+        "cpu_clock_frequency": 1.1286997991045762,
+        "task_size": null,
+        "result_size": null
+    },
+    {
+        "x": 0.2525467794860907,
+        "y": 1.0311423167440759,
+        "label": "Vehicle14",
+        "speed": 16.93278618334962,
+        "processing_capacity": 2,
+        "direction": "left",
+        "cpu_clock_frequency": 2.3293978191503073,
+        "task_size": null,
+        "result_size": null
+    },
+    {
+        "x": 0.062222341710143514,
+        "y": 4.093142174416343,
+        "label": "Vehicle15",
+        "speed": 7.369541732028101,
+        "processing_capacity": 9,
+        "direction": "right",
+        "cpu_clock_frequency": 1.511732800934819,
+        "task_size": null,
+        "result_size": null
+    },
+    {
+        "x": 0.10549386479998402,
+        "y": 4.567627764744902,
+        "label": "Vehicle16",
+        "speed": 2.8362367807542697,
+        "processing_capacity": 4,
+        "direction": "right",
+        "cpu_clock_frequency": 1.9496988485069846,
+        "task_size": null,
+        "result_size": null
+    },
+    {
+        "x": 1.0383238393150545,
+        "y": 0.464366497072075,
+        "label": "Vehicle17",
+        "speed": 28.424953380596072,
+        "processing_capacity": 9,
+        "direction": "left",
+        "cpu_clock_frequency": 1.7266922541462777,
+        "task_size": null,
+        "result_size": null
+    },
+    {
+        "x": 0.8114302735614728,
+        "y": 6.462793826657363,
+        "label": "Vehicle18",
+        "speed": 33.183297958271126,
+        "processing_capacity": 4,
+        "direction": "right",
+        "cpu_clock_frequency": 2.39424779287626,
+        "task_size": null,
+        "result_size": null
+    }
+]

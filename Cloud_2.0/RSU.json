@@ -1,0 +1,26 @@
+[
+    {
+        "x": 10,
+        "y": 20,
+        "label": "RSU1",
+        "cpu_clock_frequency": 1186787585.361459
+    },
+    {
+        "x": 30,
+        "y": 40,
+        "label": "RSU2",
+        "cpu_clock_frequency": 1763341993.1430082
+    },
+    {
+        "x": 15,
+        "y": 25,
+        "label": "RSU3",
+        "cpu_clock_frequency": 512999381.63517356
+    },
+    {
+        "x": 1,
+        "y": 10,
+        "label": "RSU4",
+        "cpu_clock_frequency": 1379326471.7432973
+    }
+]

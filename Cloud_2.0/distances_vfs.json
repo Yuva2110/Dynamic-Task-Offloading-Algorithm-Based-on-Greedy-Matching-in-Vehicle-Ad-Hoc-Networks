@@ -1,0 +1,282 @@
+[
+    {
+        "distance": 2.1730140618842655,
+        "uv_label": "Vehicle5",
+        "vfs_label": "Vehicle2"
+    },
+    {
+        "distance": 2.6506299515241905,
+        "uv_label": "Vehicle5",
+        "vfs_label": "Vehicle3"
+    },
+    {
+        "distance": 0.9865525507879546,
+        "uv_label": "Vehicle5",
+        "vfs_label": "Vehicle6"
+    },
+    {
+        "distance": 3.9541467078361476,
+        "uv_label": "Vehicle5",
+        "vfs_label": "Vehicle7"
+    },
+    {
+        "distance": 2.589677131410558,
+        "uv_label": "Vehicle5",
+        "vfs_label": "Vehicle8"
+    },
+    {
+        "distance": 3.4693676413961745,
+        "uv_label": "Vehicle5",
+        "vfs_label": "Vehicle9"
+    },
+    {
+        "distance": 5.119097288241289,
+        "uv_label": "Vehicle5",
+        "vfs_label": "Vehicle10"
+    },
+    {
+        "distance": 5.155709448858021,
+        "uv_label": "Vehicle5",
+        "vfs_label": "Vehicle12"
+    },
+    {
+        "distance": 1.4524249214857932,
+        "uv_label": "Vehicle5",
+        "vfs_label": "Vehicle13"
+    },
+    {
+        "distance": 2.8678183581560877,
+        "uv_label": "Vehicle5",
+        "vfs_label": "Vehicle14"
+    },
+    {
+        "distance": 1.5304594669596636,
+        "uv_label": "Vehicle5",
+        "vfs_label": "Vehicle15"
+    },
+    {
+        "distance": 1.704445383952148,
+        "uv_label": "Vehicle5",
+        "vfs_label": "Vehicle16"
+    },
+    {
+        "distance": 3.178262838237119,
+        "uv_label": "Vehicle5",
+        "vfs_label": "Vehicle17"
+    },
+    {
+        "distance": 2.9408754479148507,
+        "uv_label": "Vehicle5",
+        "vfs_label": "Vehicle18"
+    },
+    {
+        "distance": 5.05574163411872,
+        "uv_label": "Vehicle11",
+        "vfs_label": "Vehicle2"
+    },
+    {
+        "distance": 4.082614405238833,
+        "uv_label": "Vehicle11",
+        "vfs_label": "Vehicle3"
+    },
+    {
+        "distance": 4.509716248973634,
+        "uv_label": "Vehicle11",
+        "vfs_label": "Vehicle6"
+    },
+    {
+        "distance": 2.5038009870497255,
+        "uv_label": "Vehicle11",
+        "vfs_label": "Vehicle7"
+    },
+    {
+        "distance": 4.794608115016795,
+        "uv_label": "Vehicle11",
+        "vfs_label": "Vehicle8"
+    },
+    {
+        "distance": 2.390798732719285,
+        "uv_label": "Vehicle11",
+        "vfs_label": "Vehicle9"
+    },
+    {
+        "distance": 4.894994710751002,
+        "uv_label": "Vehicle11",
+        "vfs_label": "Vehicle10"
+    },
+    {
+        "distance": 0.5773979536360673,
+        "uv_label": "Vehicle11",
+        "vfs_label": "Vehicle12"
+    },
+    {
+        "distance": 4.986968664499283,
+        "uv_label": "Vehicle11",
+        "vfs_label": "Vehicle13"
+    },
+    {
+        "distance": 5.477699014281926,
+        "uv_label": "Vehicle11",
+        "vfs_label": "Vehicle14"
+    },
+    {
+        "distance": 6.163597240412652,
+        "uv_label": "Vehicle11",
+        "vfs_label": "Vehicle15"
+    },
+    {
+        "distance": 6.331842959960674,
+        "uv_label": "Vehicle11",
+        "vfs_label": "Vehicle16"
+    },
+    {
+        "distance": 4.799001533124086,
+        "uv_label": "Vehicle11",
+        "vfs_label": "Vehicle17"
+    },
+    {
+        "distance": 6.8935190379367235,
+        "uv_label": "Vehicle11",
+        "vfs_label": "Vehicle18"
+    },
+    {
+        "distance": 5.212482983596666,
+        "uv_label": "Vehicle4",
+        "vfs_label": "Vehicle2"
+    },
+    {
+        "distance": 3.0198238179447094,
+        "uv_label": "Vehicle4",
+        "vfs_label": "Vehicle3"
+    },
+    {
+        "distance": 2.6279734928152854,
+        "uv_label": "Vehicle4",
+        "vfs_label": "Vehicle6"
+    },
+    {
+        "distance": 6.999844198134337,
+        "uv_label": "Vehicle4",
+        "vfs_label": "Vehicle7"
+    },
+    {
+        "distance": 5.724403883356385,
+        "uv_label": "Vehicle4",
+        "vfs_label": "Vehicle8"
+    },
+    {
+        "distance": 6.491162614353434,
+        "uv_label": "Vehicle4",
+        "vfs_label": "Vehicle9"
+    },
+    {
+        "distance": 4.600931063231724,
+        "uv_label": "Vehicle4",
+        "vfs_label": "Vehicle10"
+    },
+    {
+        "distance": 7.48684248166887,
+        "uv_label": "Vehicle4",
+        "vfs_label": "Vehicle12"
+    },
+    {
+        "distance": 4.460639206060249,
+        "uv_label": "Vehicle4",
+        "vfs_label": "Vehicle13"
+    },
+    {
+        "distance": 5.841127240220832,
+        "uv_label": "Vehicle4",
+        "vfs_label": "Vehicle14"
+    },
+    {
+        "distance": 2.9193587826397622,
+        "uv_label": "Vehicle4",
+        "vfs_label": "Vehicle15"
+    },
+    {
+        "distance": 2.466550573745505,
+        "uv_label": "Vehicle4",
+        "vfs_label": "Vehicle16"
+    },
+    {
+        "distance": 6.339889757122714,
+        "uv_label": "Vehicle4",
+        "vfs_label": "Vehicle17"
+    },
+    {
+        "distance": 0.4783617955998141,
+        "uv_label": "Vehicle4",
+        "vfs_label": "Vehicle18"
+    },
+    {
+        "distance": 5.113700010419019,
+        "uv_label": "Vehicle1",
+        "vfs_label": "Vehicle2"
+    },
+    {
+        "distance": 1.452347489780032,
+        "uv_label": "Vehicle1",
+        "vfs_label": "Vehicle3"
+    },
+    {
+        "distance": 2.000487488173986,
+        "uv_label": "Vehicle1",
+        "vfs_label": "Vehicle6"
+    },
+    {
+        "distance": 6.085325119639914,
+        "uv_label": "Vehicle1",
+        "vfs_label": "Vehicle7"
+    },
+    {
+        "distance": 5.50028823416515,
+        "uv_label": "Vehicle1",
+        "vfs_label": "Vehicle8"
+    },
+    {
+        "distance": 5.576830368343615,
+        "uv_label": "Vehicle1",
+        "vfs_label": "Vehicle9"
+    },
+    {
+        "distance": 2.9910145262715018,
+        "uv_label": "Vehicle1",
+        "vfs_label": "Vehicle10"
+    },
+    {
+        "distance": 6.097283626693584,
+        "uv_label": "Vehicle1",
+        "vfs_label": "Vehicle12"
+    },
+    {
+        "distance": 4.388586818313383,
+        "uv_label": "Vehicle1",
+        "vfs_label": "Vehicle13"
+    },
+    {
+        "distance": 5.808620835580799,
+        "uv_label": "Vehicle1",
+        "vfs_label": "Vehicle14"
+    },
+    {
+        "distance": 3.4648487915895836,
+        "uv_label": "Vehicle1",
+        "vfs_label": "Vehicle15"
+    },
+    {
+        "distance": 3.1512985998754646,
+        "uv_label": "Vehicle1",
+        "vfs_label": "Vehicle16"
+    },
+    {
+        "distance": 6.056955200801931,
+        "uv_label": "Vehicle1",
+        "vfs_label": "Vehicle17"
+    },
+    {
+        "distance": 1.9534512409675522,
+        "uv_label": "Vehicle1",
+        "vfs_label": "Vehicle18"
+    }
+]

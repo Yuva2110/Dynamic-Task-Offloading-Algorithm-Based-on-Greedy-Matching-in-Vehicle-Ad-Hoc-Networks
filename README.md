@@ -24,11 +24,17 @@ it will generate the data in the form of json files
 
 ## Formulas Used
 **Channel Loss Calculation:** These formulas compute the loss experienced by the transmitted signal over the communication channel. They take into account parameters like distance, path loss exponent, and suitable path loss coefficient for different locations (VFS or RSU).
+
 **Transmission Rate Calculation:** These formulas determine the transmission rate achievable over the communication channel for both uplink and downlink transmissions. They consider parameters like transmission power, channel loss, and noise power, as well as the available bandwidth.
+
 **Response Time Calculation:** This formula calculates the total response time, which includes both the computation delay and the time taken for data transmission over the channel.
+
 **Transmission Power (P):** This constant represents the transmission power used in thecommunication system.
+
 **Noise Power (N0) Conversion:** This formula converts the noise power from dBm to Watts for use in subsequent calculations.
+
 **Bandwidth (B):** These constants define the bandwidth available for communication, both for uplink and downlink transmissions.
+
 **Euclidean Distance Calculation:** This formula computes the Euclidean distance between two points in the Cartesian coordinate system. It's used to calculate the distance between vehicle nodes and VFSs or RSUs
 
 ## Algorithms used
